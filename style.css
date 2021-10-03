@@ -1,0 +1,19 @@
+body{
+background-color: azure;
+}
+
+#abouttxt{
+font-size: 18px;
+}
+
+html{
+scroll-behavior: smooth;
+}
+
+#img1{
+width:400px;
+}
+
+.fa fa-sort-desc:hover{
+cursor: pointer;
+}
